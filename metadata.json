@@ -1,0 +1,7 @@
+{
+  "name": "MerchFlow AI",
+  "description": "Create instant, professional merch mockups from your logo using Gemini 2.5 Flash Image. Generate product shots, edit with AI, and export print-ready designs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
